@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBo6xwCVeAhzZyXDPB5BBkJMDGAqx_uluM",
+    apiKey: "add your api key here",
     authDomain: "wechat-279fc.firebaseapp.com",
     projectId: "wechat-279fc",
     storageBucket: "wechat-279fc.appspot.com",
